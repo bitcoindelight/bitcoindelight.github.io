@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bitcoindelight.github.io
+Token: aba825524bb46e53a7296bcd9c8fcbbde530beed957570ae303ec2aa7cdf4f9a
