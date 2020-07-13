@@ -18,7 +18,6 @@ navbar-links:
    # - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://www.publish0x.com/bitcoindelight"
   CoinSwap: 
-    - ChangeNow: "ChangeNow.html"
     - ChangeNow: "ChangeNow"
 
 # --- Logo --- #
